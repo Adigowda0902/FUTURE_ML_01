@@ -223,9 +223,9 @@ Possible improvements for the system:
 
 ## 👨‍💻 Author
 
-### Deepak Chakrasali
+### Adithya Gowda
 
 Machine Learning & AI Enthusiast
 
 ### GitHub
-https://github.com/Deepakchakra
+https://github.com/Adigowda0902
